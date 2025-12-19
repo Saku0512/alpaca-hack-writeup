@@ -90,7 +90,7 @@ r2でmain関数を見る
 └           0x000012e5      c3             ret
 ```
 
-sys.aとsys.bが怪しい
+sym.aとsym.bが怪しい
 ```bash
 [0x000010e0]> pdf @ sym.a
             ; ICOD XREF from main @ 0x1242(r)
